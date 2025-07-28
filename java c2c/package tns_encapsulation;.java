@@ -6,9 +6,9 @@ public class EncapsulationDemo {
 		// TODO Auto-generated method stub
 		
 		OopsDemoCtc obj = new OopsDemoCtc();
-		obj.setAge(21);
-		obj.setName("Apoorva");
-		obj.setEmail("appu123@gmail.com");
+		obj.setAge(20);
+		obj.setName("VISALAKSHI");
+		obj.setEmail("visa12@gmail.com");
 System.out.println(obj);
 
 
